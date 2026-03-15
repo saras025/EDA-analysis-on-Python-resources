@@ -3,6 +3,7 @@ Project Overview
 This project focuses on analyzing the global market for Python programming literature. By using the Open Library API, we collected and analyzed data on over 2,000+ books to understand the factors that drive a book's success, longevity, and global reach.
 
 ✨ Key Conclusions
+
 The Python Boom: Our analysis shows a massive spike in Python resources over the last decade, mirroring Python’s dominance in Data Science and AI.
 
 The Power of "Classics": We found that foundational books maintain authority through multiple editions and high digital availability.
